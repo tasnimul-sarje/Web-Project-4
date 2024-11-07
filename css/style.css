@@ -1,0 +1,41 @@
+h4{
+	border: 5px dotted red;
+}
+
+.colors{
+	color:green;
+}
+
+#clr{
+	color:blue;
+}
+
+.bg2{
+	color:chocolate;
+}
+
+.col{
+	color:darkkhaki;
+}
+
+.stl{
+	border-style:inset;
+	color:darkslateblue;
+}
+
+table, th, td {
+  border:2px solid darkblue;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#op {
+  background-color: lightgrey;
+  width: 200px;
+  border: 30px solid blueviolet;
+  padding: 30px;
+  margin: 30px;
+}
